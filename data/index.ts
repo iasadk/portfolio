@@ -112,7 +112,7 @@ export const projects = [
       "/shadcn.png",
       "/mapbox.svg",
     ],
-    link: "/ui.apple.com",
+    link: "",
   },
   {
     id: 4,
